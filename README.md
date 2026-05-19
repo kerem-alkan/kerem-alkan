@@ -1,16 +1,16 @@
-## Hi there 👋
+# Kerem Alkan
 
-<!--
-**kerem-alkan/kerem-alkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brand & Technology Specialist  
+Focused on retail operations, digital experience and modern technology solutions.
 
-Here are some ideas to get you started:
+## Currently
+- Building modern front-end experiences
+- Exploring UI / UX and digital systems
+- Working in premium consumer technology retail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+C# · .NET · WPF · HTML · CSS · JavaScript · Python
+
+## Links
+- Portfolio: https://keremalkan.com
+- LinkedIn: https://linkedin.com/in/kerem-alkan
