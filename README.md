@@ -17,14 +17,44 @@ I know store and e-commerce operations from the inside, and I use that to build 
 
 ## Selected work
 
-| | Project |
-|:-:|:--|
-| <img src="assets/mark/beacon.png" width="44" height="44" alt=""> | **[Beacon](https://beacon.keremalkan.com)** · `Live`<br>Price intelligence for retailers. It collects competitor prices seller by seller, flags every price change and keeps the history. The price sync runs on GitHub Actions in a real Chromium browser, because requests from cloud IPs kept hitting bot walls.<br><sub>Next.js · TypeScript · PWA · GitHub Actions · Chromium</sub> |
-| <img src="assets/mark/datadent.png" width="44" height="44" alt=""> | **Data Dent** · `Desktop` · private<br>A B2B contact data library for Turkey’s medical and dental market. Designed around Turkey’s data protection law (KVKK): the schema has no column for personal phone or e-mail. It runs on the desktop, and its database is encrypted.<br><sub>Rust · Tauri · encrypted SQLite</sub> |
-| <img src="assets/mark/pagesiren.svg" width="44" height="44" alt=""> | **[PageSiren](https://github.com/kerem-alkan/pagesiren)** · `Open source`<br>Stop pressing refresh. Get a siren the moment a page changes: tickets back on sale, a restock, a free appointment slot, an exam result. Free and local: no account, no cloud, no tracking.<br><sub>MIT · browser extension · Windows installer · 0 dependencies</sub> |
-| <img src="assets/mark/craftabyss.png" width="44" height="44" alt=""> | **[CraftAbyss · Orb](https://craftabyss.com)** · `Live`<br>A Minecraft community server, and Orb, a live 3D radar I built to show the server’s status, load and players. The globe at the top of this page is Orb.<br><sub>3D · real-time · Minecraft</sub> |
-| <img src="assets/mark/haunted.svg" width="44" height="44" alt=""> | **Haunted Moving Co** · `In development`<br>A Roblox co-op comedy about moving house, for 1–4 players. Your furniture has other plans. Made together with a game designer; not released yet, so there is no link.<br><sub>Roblox · Luau</sub> |
-| <img src="assets/mark/arise.svg" width="44" height="44" alt=""> | **[Arise](https://github.com/kerem-alkan/arise)** · `Experiment`<br>A small app I made to track my own weight and health.<br><sub>PWA</sub> |
+<table>
+<tr>
+<td width="72" align="center" valign="top"><img src="assets/mark/beacon.png" width="48" height="48" alt=""></td>
+<td valign="top"><b><a href="https://beacon.keremalkan.com">Beacon</a></b> · <code>Live</code><br>
+Price intelligence for retailers. It collects competitor prices seller by seller, flags every price change and keeps the history. The price sync runs on GitHub Actions in a real Chromium browser, because requests from cloud IPs kept hitting bot walls.<br>
+<sub>Next.js · TypeScript · PWA · GitHub Actions · Chromium</sub></td>
+</tr>
+<tr>
+<td width="72" align="center" valign="top"><img src="assets/mark/datadent.png" width="48" height="48" alt=""></td>
+<td valign="top"><b>Data Dent</b> · <code>Desktop</code> · private<br>
+A B2B contact data library for Turkey’s medical and dental market. Designed around Turkey’s data protection law (KVKK): the schema has no column for personal phone or e-mail. It runs on the desktop, and its database is encrypted.<br>
+<sub>Rust · Tauri · encrypted SQLite</sub></td>
+</tr>
+<tr>
+<td width="72" align="center" valign="top"><img src="assets/mark/pagesiren.svg" width="48" height="48" alt=""></td>
+<td valign="top"><b><a href="https://github.com/kerem-alkan/pagesiren">PageSiren</a></b> · <code>Open source</code><br>
+Stop pressing refresh. Get a siren the moment a page changes: tickets back on sale, a restock, a free appointment slot, an exam result. Free and local: no account, no cloud, no tracking.<br>
+<sub>MIT · browser extension · Windows installer · 0 dependencies</sub></td>
+</tr>
+<tr>
+<td width="72" align="center" valign="top"><img src="assets/mark/craftabyss.png" width="48" height="48" alt=""></td>
+<td valign="top"><b><a href="https://craftabyss.com">CraftAbyss · Orb</a></b> · <code>Live</code><br>
+A Minecraft community server, and Orb, a live 3D radar I built to show the server’s status, load and players. The globe at the top of this page is Orb.<br>
+<sub>3D · real-time · Minecraft</sub></td>
+</tr>
+<tr>
+<td width="72" align="center" valign="top"><img src="assets/mark/haunted.svg" width="48" height="48" alt=""></td>
+<td valign="top"><b>Haunted Moving Co</b> · <code>In development</code><br>
+A Roblox co-op comedy about moving house, for 1–4 players. Your furniture has other plans. Made together with a game designer; not released yet, so there is no link.<br>
+<sub>Roblox · Luau</sub></td>
+</tr>
+<tr>
+<td width="72" align="center" valign="top"><img src="assets/mark/arise.svg" width="48" height="48" alt=""></td>
+<td valign="top"><b><a href="https://github.com/kerem-alkan/arise">Arise</a></b> · <code>Experiment</code><br>
+A small app I made to track my own weight and health.<br>
+<sub>PWA</sub></td>
+</tr>
+</table>
 
 <details>
 <summary><b>See PageSiren in action</b></summary>
@@ -68,8 +98,30 @@ I know store and e-commerce operations from the inside, and I use that to build 
 I work where two worlds meet: commercial results and the technology that makes them possible.
 
 ```mermaid
+---
+config:
+  theme: base
+  themeVariables:
+    fontFamily: "-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
+    lineColor: "#8b949e"
+    cScale0: "#1f6feb"
+    cScale1: "#1f6feb"
+    cScale2: "#1f6feb"
+    cScale3: "#1f6feb"
+    cScale4: "#1f6feb"
+    cScale5: "#1f6feb"
+    cScale6: "#1f6feb"
+    cScale7: "#1f6feb"
+    cScaleLabel0: "#ffffff"
+    cScaleLabel1: "#ffffff"
+    cScaleLabel2: "#ffffff"
+    cScaleLabel3: "#ffffff"
+    cScaleLabel4: "#ffffff"
+    cScaleLabel5: "#ffffff"
+    cScaleLabel6: "#ffffff"
+    cScaleLabel7: "#ffffff"
+---
 timeline
-    title From the shop floor to software
     2018 : E-commerce and technical support
          : Imfexim Elektronik
     2021 : E-commerce and operations
