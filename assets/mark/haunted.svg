@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Haunted Moving Co">
+  <rect width="120" height="120" rx="26" fill="#211a2e"/>
+  <path d="M30 50 60 38l30 12v34L60 96 30 84z" fill="#c8955a"/>
+  <path d="M30 50 60 62l30-12" fill="none" stroke="#8a5e30" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M60 62v34" stroke="#8a5e30" stroke-width="4"/>
+  <path d="M45 44 75 56" stroke="#e9c48f" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="42" cy="72" rx="4.5" ry="6" fill="#fff"/>
+  <ellipse cx="52" cy="76" rx="4.5" ry="6" fill="#fff"/>
+  <circle cx="43" cy="73.5" r="2.2" fill="#211a2e"/>
+  <circle cx="53" cy="77.5" r="2.2" fill="#211a2e"/>
+</svg>
