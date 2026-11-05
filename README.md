@@ -104,6 +104,7 @@ config:
   themeVariables:
     fontFamily: "-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
     lineColor: "#8b949e"
+    textColor: "#8b949e"
     cScale0: "#1f6feb"
     cScale1: "#1f6feb"
     cScale2: "#1f6feb"
@@ -120,6 +121,14 @@ config:
     cScaleLabel5: "#ffffff"
     cScaleLabel6: "#ffffff"
     cScaleLabel7: "#ffffff"
+    cScaleInv0: "#1f6feb"
+    cScaleInv1: "#1f6feb"
+    cScaleInv2: "#1f6feb"
+    cScaleInv3: "#1f6feb"
+    cScaleInv4: "#1f6feb"
+    cScaleInv5: "#1f6feb"
+    cScaleInv6: "#1f6feb"
+    cScaleInv7: "#1f6feb"
 ---
 timeline
     2018 : E-commerce and technical support
