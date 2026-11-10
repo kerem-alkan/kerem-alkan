@@ -247,8 +247,8 @@ function hero(T) {
   }
   const h1 = 54;
   const ls = -0.035;
-  out.push(`<path d="${tp(FONT.bold, "I worked in retail.", PX - 2, 246, h1, ls)}" fill="${T.head}"/>`);
-  out.push(`<path d="${tp(FONT.bold, "Now I build software for it.", PX - 2, 246 + h1 * 1.08, h1, ls)}" fill="${T.muted}"/>`);
+  out.push(`<path d="${tp(FONT.bold, "Partnerships.", PX - 2, 246, h1, ls)}" fill="${T.head}"/>`);
+  out.push(`<path d="${tp(FONT.bold, "Products.", PX - 2, 246 + h1 * 1.08, h1, ls)}" fill="${T.muted}"/>`);
   const url = "keremalkan.com";
   out.push(`<path d="${tp(FONT.mono, url, PX, 362, 17)}" fill="${T.accInk}"/>`);
   const uw = tw(FONT.mono, url, 17);
@@ -257,14 +257,14 @@ function hero(T) {
   out.push(
     `<path d="M${num(ax)} 361l9-9M${num(ax + 2)} 352h7v7" fill="none" stroke="${T.accInk}" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>`
   );
-  return { svg: out.join("\n"), widest: tw(FONT.bold, "Now I build software for it.", h1, ls) };
+  return { svg: out.join("\n"), widest: tw(FONT.bold, "Partnerships.", h1, ls) };
 }
 
 for (const [world, T] of Object.entries(THEMES)) {
   const o = orb(T);
   const h = hero(T);
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-labelledby="t">
-<title id="t">Kerem Alkan. I worked in retail. Now I build software for it.</title>
+<title id="t">Kerem Alkan. Partnerships. Products.</title>
 <defs>${o.defs}<filter id="sh" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="0" dy="1.2" stdDeviation="1.6" flood-color="#000" flood-opacity=".18"/></filter><clipPath id="panel"><rect width="${W}" height="${H}" rx="${T.rx}"/></clipPath></defs>
 <style>
 ${o.css}

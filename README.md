@@ -2,11 +2,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-underground.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-surface.svg">
-    <img alt="Kerem Alkan. I worked in retail. Now I build software for it." src="assets/banner-surface.svg" width="100%">
+    <img alt="Kerem Alkan. Partnerships. Products." src="assets/banner-surface.svg" width="100%">
   </picture>
 </a>
 
-I know store and e-commerce operations from the inside, and I use that to build **price intelligence for retailers**, **B2B data tools** and free open-source software.
+With a background in retail and e-commerce, I lead B2B partnerships. I also build my own software products: **price intelligence for retail**, **B2B data tools** and open-source software.
 
 > [!NOTE]
 > **Open to roles and consulting.** Write to [contact@keremalkan.com](mailto:contact@keremalkan.com).
@@ -172,7 +172,7 @@ timeline
 <summary><b>Türkçe</b></summary>
 <br>
 
-Mağaza ve e-ticaret operasyonlarını içeriden biliyorum. Bu bilgiyle **perakendeciler için fiyat zekâsı**, **B2B veri araçları** ve ücretsiz açık kaynak yazılımlar geliştiriyorum.
+Perakende ve e-ticaret deneyimimle bugün B2B iş ortaklıklarını yönetiyorum. Kendi yazılım ürünlerimi de geliştiriyorum: **perakende için fiyat zekâsı**, **B2B veri araçları** ve açık kaynak yazılımlar.
 
 - **Şu an:** B2B Partnerships Lead, Biletwise
 - **Ürünler:** Beacon · Data Dent · PageSiren
