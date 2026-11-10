@@ -12,7 +12,7 @@ I know store and e-commerce operations from the inside, and I use that to build 
 > **Open to roles and consulting.** Write to [contact@keremalkan.com](mailto:contact@keremalkan.com).
 
 - **Now:** B2B Partnerships Lead at Biletwise
-- **Building:** Beacon · Data Dent · PageSiren
+- **Building:** Beacon · Data Dent · PageSiren · Haunted Moving Co.
 - **Before:** Brand & Technology Specialist at Aztek Teknoloji, seven global brands (2025–2026)
 
 ## Selected work
@@ -44,9 +44,9 @@ A Minecraft community server, and Orb, a live 3D radar I built to show the serve
 </tr>
 <tr>
 <td width="72" align="center" valign="top"><img src="assets/mark/haunted.svg" width="48" height="48" alt=""></td>
-<td valign="top"><b>Haunted Moving Co</b> · <code>In development</code><br>
-A Roblox co-op comedy about moving house, for 1–4 players. Your furniture has other plans. Made together with a game designer; not released yet, so there is no link.<br>
-<sub>Roblox · Luau</sub></td>
+<td valign="top"><b>Haunted Moving Co.</b> · <code>In development</code><br>
+A co-op game for PC, planned for release on Steam. Your furniture has other plans. Made together with a game designer; no Steam page yet, so there is no link.<br>
+<sub>Unity · C# · PC</sub></td>
 </tr>
 <tr>
 <td width="72" align="center" valign="top"><img src="assets/mark/arise.svg" width="48" height="48" alt=""></td>
@@ -90,7 +90,7 @@ A small app I made to track my own weight and health.<br>
 <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square">
 <br>
 <b>Games</b>&nbsp;
-<img alt="Luau (Roblox)" src="https://img.shields.io/badge/Luau%20(Roblox)-00A2FF?style=flat-square&logo=roblox&logoColor=white">
+<img alt="Unity" src="https://img.shields.io/badge/Unity-222C37?style=flat-square&logo=unity&logoColor=white">
 </p>
 
 ## Experience
@@ -185,7 +185,7 @@ Mağaza ve e-ticaret operasyonlarını içeriden biliyorum. Bu bilgiyle **perake
 - **Data Dent:** Türkiye’nin medikal ve dental pazarı için B2B iletişim veri kütüphanesi. KVKK’ya göre baştan tasarlandı: şemada kişisel telefon veya e-posta sütunu yok. Masaüstünde çalışır, veritabanı şifrelidir.
 - **[PageSiren](https://github.com/kerem-alkan/pagesiren):** Ücretsiz, açık kaynak sayfa değişikliği alarmı. Sayfa değiştiği an siren çalar. Hesap yok, bulut yok, veri toplama yok.
 - **[CraftAbyss · Orb](https://craftabyss.com):** Bir Minecraft topluluk sunucusu ve onun için yaptığım 3D radar Orb. Bu sayfanın en üstündeki küre Orb.
-- **Haunted Moving Co:** Taşınma temalı, 1–4 kişilik co-op Roblox komedi oyunu. Bir oyun tasarımcısıyla birlikte geliştiriliyor; henüz yayında değil.
+- **Haunted Moving Co.:** PC için yaptığımız, Steam’de çıkması planlanan co-op bir oyun. Bir oyun tasarımcısıyla birlikte geliştiriliyor; henüz Steam sayfası yok.
 - **[Arise](https://github.com/kerem-alkan/arise):** Kendi kilo ve sağlık takibim için yaptığım küçük bir uygulama.
 
 Ayrıntılar: [keremalkan.com/tr](https://keremalkan.com/tr)
